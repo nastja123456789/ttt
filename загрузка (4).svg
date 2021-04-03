@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="nav-style.css"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="svg2" width="1966" height="635" viewBox="0 0 1966 635">
+  <metadata id="metadata8">
+    
+  </metadata>
+  <defs id="defs6"/>
+  
+  <filter id="dropShadow" height="130%">
+    <feGaussianBlur in="SourceAlpha" stdDeviation="3" id="feGaussianBlur6"/>
+    
+    <feOffset dx="10" dy="10" result="offsetblur" id="feOffset8"/>
+    
+    <feComponentTransfer id="feComponentTransfer12">
+      <feFuncA type="linear" slope="0.5" id="feFuncA10"/>
+      
+    </feComponentTransfer>
+    <feMerge id="feMerge18">
+      <feMergeNode id="feMergeNode14"/>
+      
+      <feMergeNode id="feMergeNode16"/>
+      
+    </feMerge>
+  </filter>
+  <path d="m 1964.9999,77 h -706 V 0 H 0 c 70.2368,252.3892 221.2525,377.0216 422,423 l 1542.9999,212 z" id="path80" class="building" style="fill:#ffffff"/>
+  <g id="str3-left" class="room">
+    <path class="stair" id="path152" d="M 72,0 H 0 c 19.4205,69.1971 45.7633,133.4802 83,192 l 57.7901,-39 C 116.08932,108.47027 88.58836,57.1259 72,0 Z"/>
+    <path class="icon" id="stairs-46" d="M 71.9999,58.47371 V 69.00002 H 61.47348 V 79.52633 H 50.94724 V 90.05264 H 40.4209 v 7.89473 h 18.421 V 87.42106 H 69.36824 V 76.89476 H 79.89448 V 66.36844 H 90.4209 v -7.89473 z"/>
+  </g>
+  <g id="cab301" class="room">
+    <path class="study" id="path185" d="M 224,0 V 201 H 176 C 126.5497,139.7932 90.8371,73.2031 72,0 Z"/>
+    <text xml:space="preserve" x="134.89772" y="100" id="text250" class="cab-num"><tspan id="tspan248" x="134.89772" y="100">301</tspan></text>
+  </g>
+  <g id="cab302" class="room">
+    <path class="study" id="path192" d="M 370,0 V 201 H 224 V 0 Z"/>
+    <text xml:space="preserve" x="260.87585" y="100" id="text250-5" class="cab-num"><tspan id="tspan248-9" x="260.87585" y="100">302</tspan></text>
+  </g>
+  <g id="cab303" class="room">
+    <path class="study" id="path209" d="M 513,0 V 186 H 370 V 0 Z"/>
+    <text xml:space="preserve" x="399.57254" y="100" id="text250-8" class="cab-num"><tspan id="tspan248-7" x="399.57254" y="100">303</tspan></text>
+  </g>
+  <g id="cab304" class="room">
+    <path class="study" id="path224" d="M 659,0 V 186 H 513 V 0 Z"/>
+    <text xml:space="preserve" x="549.60809" y="100" id="text250-2" class="cab-num"><tspan id="tspan248-5" x="549.60809" y="100">304</tspan></text>
+  </g>
+  <g id="cab305" class="room">
+    <path class="study" id="path239" d="M 804,0 V 186 H 659 V 0 Z"/>
+    <text xml:space="preserve" x="696.31519" y="100" id="text250-9" class="cab-num"><tspan id="tspan248-8" x="696.31519" y="100">305</tspan></text>
+  </g>
+  <g id="cab306" class="room">
+    <path class="study" id="path254" d="M 948,0 V 186 H 804 V 0 Z"/>
+    <text xml:space="preserve" x="837.19391" y="100" id="text250-0" class="cab-num"><tspan id="tspan248-76" x="837.19391" y="100">306</tspan></text>
+  </g>
+  <g id="cab307" class="room">
+    <path class="study" id="path269" d="M 1096,0 V 186 H 948 V 0 Z"/>
+    <text xml:space="preserve" x="983.10809" y="100" id="text250-02" class="cab-num"><tspan id="tspan248-0" x="983.10809" y="100">307</tspan></text>
+  </g>
+  <g id="str3-top" class="room">
+    <path class="stair" id="path130" d="M 1258.9999,77 H 1096 V 0 h 162.9999 z"/>
+    <path class="icon" id="stairs-1" d="m 1182.7895,14.2632 v 12.63157 h -12.6317 v 12.63157 h -12.6315 v 12.63157 h -12.6316 v 9.47368 h 22.1052 V 49.00002 h 12.6316 V 36.36845 h 12.6315 V 23.73687 h 12.6317 V 14.2632 Z"/>
+  </g>
+  <g id="cab308" class="room">
+    <path class="study" id="path103" d="m 1383.9999,77 v 223.07622 h -217 V 77 Z"/>
+    <text class="cab-num" id="text250-82" y="200" x="1245.1094" xml:space="preserve"><tspan y="200" x="1245.1094" id="tspan248-84">308</tspan></text>
+  </g>
+  <g id="cab309" class="room">
+    <path class="study" id="path101" d="m 1463.8135,77 h -79.8136 v 223.07622 h 79.8136 z"/>
+    <text class="cab-num" id="text250-83" y="200" x="1390.1179" xml:space="preserve"><tspan y="200" x="1390.1179" id="tspan248-2">309</tspan></text>
+  </g>
+  <g id="cab310" class="room">
+    <path class="study" id="path3833" d="m 1463.8135,76.94097 210.293,0.069 0.01,223.06625 H 1463.815 Z"/>
+    <text class="cab-num" id="text250-24" y="200" x="1529.6643" xml:space="preserve"><tspan y="200" x="1529.6643" id="tspan248-51">310</tspan></text>
+  </g>
+  <g id="cab311" class="room">
+    <path class="study" id="path3835" d="m 1674.1065,77.01 69.707,0.0662 v 243 h -69.6797 l -0.019,-20 z"/>
+    <text xml:space="preserve" x="1680.1178" y="200" id="text250-85" class="cab-num"><tspan id="tspan248-25" x="1680.1178" y="200">311</tspan></text>
+  </g>
+  <g id="cab312" class="room">
+    <path class="study" id="path3837" d="M 1743.8135,77.07622 1964.9999,77 l -0.1864,243.07622 h -221 z"/>
+    <g id="g173">
+      <text xml:space="preserve" x="1820.3512" y="200" id="text250-6" class="cab-num"><tspan id="tspan248-3" x="1820.3512" y="200">312</tspan></text>
+    </g>
+  </g>
+  <g id="cab325" class="room">
+    <path class="study" id="path119" d="M 199.1016,320.9062 250,254 H 374 V 410 C 317.272,392.6772 258.808,365.7054 199.1016,320.9062 Z"/>
+    <text class="cab-num" id="text250-9-7" y="330" x="267.67737" xml:space="preserve"><tspan y="330" x="267.67737" id="tspan248-8-5">325</tspan></text>
+  </g>
+  <g id="cab324" class="room">
+    <path class="study" id="path121" d="M 374,254 H 520 V 436.4375 L 422,423 c -16.2126,-3.9638 -32.5313,-7.7431 -48,-13 z"/>
+    <text class="cab-num" id="text250-9-6" y="330" x="412.42609" xml:space="preserve"><tspan y="330" x="412.42609" id="tspan248-8-2">324</tspan></text>
+  </g>
+  <g id="cab323" class="room">
+    <path class="study" id="path127" d="M 520,254 H 663.8135 V 455 L 520,436.4375 Z"/>
+    <text class="cab-num" id="text250-9-5" y="330" x="553.13318" xml:space="preserve"><tspan y="330" x="553.13318" id="tspan248-8-28">323</tspan></text>
+  </g>
+  <path style="stroke-width:1.00310659" d="m 663.8135,254 v 63.39205 H 766 V 254 Z" id="path131" class="void"/>
+  <g id="cab321" class="room">
+    <path class="study" id="path165" d="M 845,316.99998 V 254.02125 L 766,254 v 63.00002 H 663.8135 V 455 L 845,481 Z" style="stroke-width:1.00109851"/>
+    <text xml:space="preserve" x="714.94043" y="391.87494" id="text250-9-60-2" class="cab-num"><tspan id="tspan248-8-57-9" x="714.94043" y="391.87494">321</tspan></text>
+  </g>
+  <g id="tlt3" class="room">
+    <path class="toilet" id="path139" d="m 845,317 h 195 v 125 h 80 v 76.8437 L 845,481 Z"/>
+    <path d="m 907.8822,435.47059 v -26.47057 h -5.2941 v -19.41176 c 0,-3.88235 3.1765,-7.05882 7.0588,-7.05882 h 10.5883 c 3.8824,0 7.0588,3.17647 7.0588,7.05882 v 19.41176 h -5.2941 v 26.47057 z m 44.1176,0 v -21.17646 h 10.5883 l -8.9647,-26.9294 c -0.9882,-2.89412 -3.6706,-4.83529 -6.7059,-4.83529 h -0.4236 c -3.0353,0 -5.7528,1.94117 -6.7058,4.83529 l -8.9647,26.9294 h 10.5882 v 21.17646 z m -37.0587,-56.47057 c 3.9175,0 7.0588,-3.14116 7.0588,-7.05882 0,-3.91764 -3.1413,-7.05882 -7.0588,-7.05882 -3.9177,0 -7.0589,3.14118 -7.0589,7.05882 0,3.91766 3.1412,7.05882 7.0589,7.05882 z m 31.7647,0 c 3.9177,0 7.0587,-3.14116 7.0587,-7.05882 0,-3.91764 -3.141,-7.05882 -7.0587,-7.05882 -3.9177,0 -7.0589,3.14118 -7.0589,7.05882 0,3.91766 3.1412,7.05882 7.0589,7.05882 z" id="wc" class="icon"/>
+  </g>
+  <g id="str3-bottom" class="room">
+    <path class="stair" id="path106" d="m 1120,442 v 76.84376 l 120,16.5476 V 442 Z"/>
+    <path d="m 1186.9999,461.36845 v 12.63157 h -12.6317 v 12.63157 h -12.6315 v 12.63157 h -12.6316 v 9.47368 h 22.1052 v -12.63157 h 12.6316 V 483.4737 h 12.6315 v -12.63158 h 12.6317 v -9.47367 z" id="stairs" class="icon"/>
+  </g>
+  <g id="lft3" class="room">
+    <path class="stair" id="path94" d="m 1240,441.99994 v 93.39141 l 144,19.60859 v -113 z"/>
+    <path d="m 1298.6665,459.00002 13.3334,13.33334 h -10 v 13.33333 h -6.6667 v -13.33333 h -10 l 13.3333,-13.33334 m 33.3334,26.66667 -13.3334,-13.33333 h 10 v -13.33334 h 6.6667 v 13.33334 h 10 l -13.3333,13.33333 m -33.3334,6.66667 h 33.3334 a 6.6666667,6.6666667 0 0 1 6.6666,6.66666 v 20 a 6.6666667,6.6666667 0 0 1 -6.6666,6.66667 h -33.3334 a 6.6666667,6.6666667 0 0 1 -6.6666,-6.66667 v -20 a 6.6666667,6.6666667 0 0 1 6.6666,-6.66666 m 0,6.66666 v 20 h 33.3334 v -20 z" id="lift" class="icon"/>
+  </g>
+  <path d="m 1384,441.99989 v 113 l 56.5267,7.97328 0.2868,-120.89695 z" id="path3839" class="void"/>
+  <g id="cab315" class="room">
+    <path class="study" id="path3841" d="m 1440.8135,442.07622 h 50.5313 v 127.8086 l -50.8219,-6.91165 z"/>
+    <text transform="rotate(90)" class="cab-num" id="text250-29" y="-1452.4921" x="465" xml:space="preserve"><tspan y="-1452.4921" x="465" id="tspan248-1">315</tspan></text>
+  </g>
+  <g id="cab314" class="room">
+    <path class="study" id="path3843" d="m 1491.3487,569.88482 v -157.8086 h 285.4609 v 197 z"/>
+    <text class="cab-num" id="text250-27" y="520" x="1598.6628" xml:space="preserve"><tspan y="520" x="1598.6628" id="tspan248-71">314</tspan></text>
+  </g>
+  <g id="str3-right" class="room">
+    <path class="stair" id="path118" d="m 1964.9309,441.34185 -147.1172,-1e-5 v -66.26562 h 147.169 z"/>
+    <path class="icon" id="stairs-4" d="m 1899.6316,383.73688 v 12.63157 h -12.6317 v 12.63157 h -12.6315 v 12.63157 h -12.6316 v 9.47368 h 22.1052 V 418.4737 h 12.6316 v -12.63157 h 12.6315 v -12.63158 h 12.6317 v -9.47367 z"/>
+  </g>
+  <g id="cab313" class="room">
+    <path class="study" id="path3845" d="M 1776.8135,609.07622 1964.9999,635 l -0.069,-193.65815 -188.1172,0.009 z"/>
+    <text class="cab-num" id="text250-06" y="520" x="1835.8416" xml:space="preserve"><tspan y="520" x="1835.8416" id="tspan248-97">313</tspan></text>
+  </g>
+  <path d="m 1124.8135,315.07622 h -34 v 10 h 34 z" id="path3849" class="void"/>
+  <circle class="dot" id="dot3-1-1" cx="1781.4308" cy="351.49753" r="10"/>
+  <circle class="dot" id="dot3-11-4" cx="1132.1299" cy="94.435471" r="10"/>
+  <circle class="dot" id="dot3-11-3" cx="1130.8069" cy="154.35144" r="10"/>
+  <circle class="dot" id="dot3-11-2" cx="1111.548" cy="218.30406" r="10"/>
+  <circle class="dot" id="dot3-25" cx="145.87906" cy="213.68312" r="10"/>
+  <circle class="dot" id="dot3-24" cx="215.28069" cy="230.28667" r="10"/>
+  <circle class="dot" id="dot3-23" cx="283.81738" cy="229.19225" r="10"/>
+  <circle class="dot" id="dot3-22" cx="357.59601" cy="226.56293" r="10"/>
+  <circle class="dot" id="dot3-21" cx="423.71155" cy="222.70699" r="10"/>
+  <circle class="dot" id="dot3-20" cx="490.71561" cy="221.0134" r="10"/>
+  <circle class="dot" id="dot3-19" cx="559.14532" cy="221.62358" r="10"/>
+  <circle class="dot" id="dot3-18" cx="632.13696" cy="220.35478" r="10"/>
+  <circle class="dot" id="dot3-17" cx="705.12866" cy="220.4175" r="10"/>
+  <circle class="dot" id="dot3-16" cx="774.3103" cy="219.42082" r="10"/>
+  <circle class="dot" id="dot3-15" cx="835.85425" cy="220.92712" r="10"/>
+  <circle class="dot" id="dot3-14-1" cx="902.42969" cy="236.02382" r="10"/>
+  <circle class="dot" id="dot3-13" cx="972.88141" cy="244.98257" r="10"/>
+  <circle class="dot" id="dot3-12" cx="1051.499" cy="251.23196" r="10"/>
+  <circle class="dot" id="dot3-11-1" cx="1116.7001" cy="286.2128" r="10"/>
+  <circle class="dot" id="dot3-10" cx="1166.7156" cy="330.82843" r="10"/>
+  <circle class="dot" id="dot3-9-1" cx="1230.545" cy="355.42609" r="10"/>
+  <circle class="dot" id="dot3-8" cx="1305.8958" cy="356.05389" r="10"/>
+  <circle class="dot" id="dot3-7" cx="1372.9111" cy="356.80939" r="10"/>
+  <circle class="dot" id="dot3-6-1" cx="1439.0598" cy="354.87198" r="10"/>
+  <circle class="dot" id="dot3-5" cx="1506.6228" cy="358.57706" r="10"/>
+  <circle class="dot" id="dot3-4" cx="1579.6145" cy="362.33496" r="10"/>
+  <circle class="dot" id="dot3-3" cx="1650.3251" cy="365.0322" r="10"/>
+  <circle class="dot" id="dot3-2" cx="1718.7548" cy="363.04211" r="10"/>
+  <circle class="dot" id="dot3-6-2" cx="1438.3613" cy="415.08859" r="10"/>
+  <circle class="dot" id="dot3-9-2" cx="1230.1255" cy="423.89465" r="10"/>
+  <circle class="dot" id="dot3-14-2" cx="899.72705" cy="289.45627" r="10"/>
+  <circle class="dot" id="dot3-1-2" cx="1792.5533" cy="394.49841" r="10"/>
+ </svg>

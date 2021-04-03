@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="nav-style.css"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="svg86" width="582.99988" height="563.92371" viewBox="0 0 582.99988 563.92371">
+  <metadata id="metadata92">
+    
+  </metadata>
+  <defs id="defs90"/>
+  
+  <filter id="dropShadow" height="130%">
+    <feGaussianBlur in="SourceAlpha" stdDeviation="3" id="feGaussianBlur7"/>
+    
+    <feOffset dx="10" dy="10" result="offsetblur" id="feOffset9"/>
+    
+    <feComponentTransfer id="feComponentTransfer13">
+      <feFuncA type="linear" slope="0.5" id="feFuncA11"/>
+      
+    </feComponentTransfer>
+    <feMerge id="feMerge19">
+      <feMergeNode id="feMergeNode15"/>
+      
+      <feMergeNode id="feMergeNode17"/>
+      
+    </feMerge>
+  </filter>
+  <path d="m 582.81348,19 -362,-19 0.1864,172.9237 -68.1864,1.0762 v 70.9238 H 0 v 319 h 411.99988 c 37.4362,-82.2087 99.0376,-120.9277 171,-141 z" id="path93" class="building" style="fill:#ffffff"/>
+  <path d="m 220.93068,0.9062 0.069,172.0175 -68.1864,1.0762 v 70.9238 L 2.93051,244.9047 C 132.21608,211.9149 217.67508,97.3563 220.93048,0.9056 Z" id="path3853" class="void"/>
+  <g id="cab8a02" class="room">
+    <path class="study" id="path4815" d="m 220.81348,1e-4 0.1864,172.9237 179.5972,-0.017 -0.7567,-163.3906 z"/>
+    <text class="cab-num" id="text218-4" y="105.64309" x="271.19806" xml:space="preserve"><tspan y="105.64309" x="271.19806" id="tspan216-9">802</tspan></text>
+  </g>
+  <g id="cab8a01" class="room">
+    <path class="study" id="path126" d="m 400.04058,172.9237 h 182.9302 L 582.70788,19 399.84038,9.5162 Z"/>
+    <text id="text218" y="109.39373" x="453.45706" xml:space="preserve" class="cab-num"><tspan y="109.39373" x="453.45706" id="tspan216">801</tspan></text>
+  </g>
+  <g id="cab8a10" class="room">
+    <path class="study" id="path4819" d="m 152.81348,244.9237 v 58 H 0 v -58 z"/>
+    <text class="cab-num" id="text218-62" y="287.56943" x="37.098015" xml:space="preserve"><tspan y="287.56943" x="37.098015" id="tspan216-0">810</tspan></text>
+  </g>
+  <g id="cab8a09" class="room">
+    <path class="study" id="path128" d="m 152.81348,302.9237 v 150 H 0 v -150 z"/>
+    <text class="cab-num" id="text218-69" y="391.01169" x="38.72337" xml:space="preserve"><tspan y="391.01169" x="38.72337" id="tspan216-3">809</tspan></text>
+  </g>
+  <g id="cab8a08" class="room">
+    <path class="study" id="path4821" d="m 0,452.9237 h 152.81348 v 85 H 0 Z"/>
+    <text class="cab-num" id="text218-1" y="507.60712" x="38.163876" xml:space="preserve"><tspan y="507.60712" x="38.163876" id="tspan216-5">808</tspan></text>
+  </g>
+  <g id="str8a" class="room">
+    <path class="stair" id="path4829" d="m 152.81348,537.9237 v 26 H 0 v -26 z"/>
+    <path style="opacity:1" d="m 78.2754,540.7734 v 4.8 h -4.8001 v 4.7999 h -4.7999 v 4.8001 h -4.8 v 3.6 h 8.3999 v -4.8 h 4.8001 v -4.7999 h 4.79998 v -4.8001 h 4.8 v -3.6 z" id="stairs-6" class="icon"/>
+  </g>
+  <g id="lft8a" class="room">
+    <path class="stair" id="path4827" d="m 362.99988,390.9237 h -141 v -110 l 37,-37 h 104 z"/>
+    <path d="m 279.76455,284.4823 13.3334,13.3334 h -10 v 13.3333 h -6.6667 v -13.3333 h -10 l 13.3333,-13.3334 m 33.3334,26.6667 -13.3334,-13.3333 h 10 v -13.3334 h 6.6667 v 13.3334 h 10 l -13.3333,13.3333 m -33.3334,6.6667 h 33.3334 a 6.6666667,6.6666667 0 0 1 6.6666,6.6666 v 20 a 6.6666667,6.6666667 0 0 1 -6.6666,6.6667 h -33.3334 a 6.6666667,6.6666667 0 0 1 -6.6666,-6.6667 v -20 a 6.6666667,6.6666667 0 0 1 6.6666,-6.6666 m 0,6.6666 v 20 h 33.3334 v -20 z" id="lift-0" class="icon"/>
+  </g>
+  <path d="m 362.99988,303.9999 h 79.8136 V 243.906 l -79.8136,0.019 z" id="path4831" class="void"/>
+  <path d="m 442.81348,243.906 h 29.9914 v 60.0641 l -9.9914,0.03 h -20 z" id="path41" class="void"/>
+  <g id="cab8a03" class="room">
+    <path class="study" id="path3857" d="m 442.81348,303.9999 h -79.8136 v 86.9238 h 99.8136 v -86.9238 z"/>
+    <text class="cab-num" id="text218-6" y="359.51978" x="374.48291" xml:space="preserve"><tspan y="359.51978" x="374.48291" id="tspan216-90">803</tspan></text>
+  </g>
+  <g id="tlt8a" class="room">
+    <path class="toilet" id="path4825" d="m 362.99988,467.9237 v -77 h -141 v 77 z"/>
+    <path d="m 268.82662,464.4975 v -26.4706 h -5.2941 v -19.4117 c 0,-3.8824 3.1765,-7.0588 7.0588,-7.0588 h 10.5883 c 3.8824,0 7.0588,3.1764 7.0588,7.0588 v 19.4117 h -5.2941 v 26.4706 z m 44.1176,0 V 443.321 h 10.5883 l -8.9647,-26.9294 c -0.9882,-2.8941 -3.6706,-4.8352 -6.7059,-4.8352 h -0.4236 c -3.0353,0 -5.7528,1.9411 -6.7058,4.8352 l -8.9647,26.9294 h 10.5882 v 21.1765 z m -37.0587,-56.4706 c 3.9175,0 7.0588,-3.1411 7.0588,-7.0588 0,-3.9176 -3.1413,-7.0588 -7.0588,-7.0588 -3.9177,0 -7.0589,3.1412 -7.0589,7.0588 0,3.9177 3.1412,7.0588 7.0589,7.0588 z m 31.7647,0 c 3.9177,0 7.0587,-3.1411 7.0587,-7.0588 0,-3.9176 -3.141,-7.0588 -7.0587,-7.0588 -3.9177,0 -7.0589,3.1412 -7.0589,7.0588 0,3.9177 3.1412,7.0588 7.0589,7.0588 z" id="wc-7" class="icon"/>
+  </g>
+  <g id="cab8a07" class="room">
+    <path class="study" id="path4823" d="m 221.99988,563.9237 v -96 h 141 v 96 z"/>
+    <text class="cab-num" id="text218-6-2" y="528.03156" x="257.2186" xml:space="preserve"><tspan y="528.03156" x="257.2186" id="tspan216-90-1">807</tspan></text>
+  </g>
+  <path d="m 461.99988,390.9237 h 49 v -146 h 72 v 178 c -84.3994,22.2916 -139.3819,71.111 -171,141 h -49 v -173 z" id="path44" class="void"/>
+  <ellipse style="opacity:1;fill:none;stroke-width:0.99999994" id="path136" cx="183.49989" cy="477.92383" rx="7.5" ry="15"/>
+  <circle class="dot" id="dot8a-13" cx="181.28017" cy="498.24707" r="10"/>
+  <circle class="dot" id="dot8a-12" cx="180.78017" cy="443.9082" r="10"/>
+  <circle class="dot" id="dot8a-11" cx="180.93703" cy="388.39355" r="10"/>
+  <circle class="dot" id="dot8a-10" cx="182.18398" cy="338.30774" r="10"/>
+  <circle class="dot" id="dot8a-9" cx="183.28029" cy="289.45581" r="10"/>
+  <circle class="dot" id="dot8a-8" cx="218.1692" cy="256.27649" r="10"/>
+  <circle class="dot" id="dot8a-7" cx="253.57729" cy="223.59631" r="10"/>
+  <circle class="dot" id="dot8a-6" cx="299.38672" cy="204.93945" r="10"/>
+  <circle class="dot" id="dot8a-5" cx="352.46216" cy="202.13611" r="10"/>
+  <circle class="dot" id="dot8a-4" cx="411.70911" cy="201.72192" r="10"/>
+  <circle class="dot" id="dot8a-3-1" cx="473.39282" cy="202.26184" r="10"/>
+  <circle class="dot" id="dot8a-3-2" cx="492.60352" cy="251.27222" r="10"/>
+  <circle class="dot" id="dot8a-3-3" cx="490.21948" cy="307.85547" r="10"/>
+  <circle class="dot" id="dot8a-2" cx="522.28015" cy="201.74707" r="10"/>
+  <circle class="dot" id="dot8a-14" cx="180.49989" cy="548.42383" r="10"/>
+  <circle class="dot" id="dot8a-1" cx="568.99988" cy="203.42383" r="10"/>
+  </svg>

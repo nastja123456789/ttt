@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="nav-style.css"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="svg68" width="583" height="538" viewBox="0 0 583 538">
+  <metadata id="metadata74">
+    
+  </metadata>
+  <defs id="defs72"/>
+  
+  <filter id="dropShadow" height="130%">
+    <feGaussianBlur in="SourceAlpha" stdDeviation="3" id="feGaussianBlur6"/>
+    
+    <feOffset dx="10" dy="10" result="offsetblur" id="feOffset8"/>
+    
+    <feComponentTransfer id="feComponentTransfer12">
+      <feFuncA type="linear" slope="0.5" id="feFuncA10"/>
+      
+    </feComponentTransfer>
+    <feMerge id="feMerge18">
+      <feMergeNode id="feMergeNode14"/>
+      
+      <feMergeNode id="feMergeNode16"/>
+      
+    </feMerge>
+  </filter>
+  <path d="M 583,0 H 221 v 147 h -72 v 72 H 0 v 319 h 412 c 37.4361,-82.2087 99.0375,-120.9277 171,-141 z" id="path93" class="building" style="fill:#ffffff"/>
+  <g id="cab2a26" class="room">
+    <path class="study" id="path4815" d="M 221,0 V 147 H 441 V 0 Z"/>
+    <text style="font-size:40px" xml:space="preserve" x="296.05072" y="90" id="text27-7" class="cab-num"><tspan id="tspan25-4" x="296.05072" y="90">226</tspan></text>
+  </g>
+  <g id="cab2a25" class="room">
+    <path class="study" id="path4817" d="M 583,0 H 441 v 147 h 142 z"/>
+    <text id="text27" y="90" class="cab-num" x="474.23447" xml:space="preserve"><tspan y="90" x="474.23447" id="tspan25">225</tspan></text>
+  </g>
+  <g id="cab2a34" class="room">
+    <path class="study" id="path4819" d="M 149,219 V 369 H 0 V 219 Z"/>
+    <text xml:space="preserve" x="36.061413" y="305.65686" id="text27-7-2" class="cab-num"><tspan id="tspan25-4-8" x="36.061413" y="305.65686">234</tspan></text>
+  </g>
+  <g id="cab2a33" class="room">
+    <path class="study" id="path4821" d="m 0,436 h 149 v 76 H 0 Z"/>
+    <text xml:space="preserve" x="34.747707" y="489.19238" id="text27-7-5" class="cab-num"><tspan id="tspan25-4-1" x="34.747707" y="489.19238">233</tspan></text>
+  </g>
+  <g id="str2a" class="room">
+    <path class="stair" id="path4829" d="m 149,512 v 26 H 0 v -26 z"/>
+    <path d="m 79.13629,515.42534 v 4.8 h -4.8001 v 4.7999 h -4.7999 v 4.8001 h -4.8 v 3.6 h 8.3999 v -4.8 h 4.8001 v -4.7999 h 4.8 v -4.8001 h 4.8 v -3.6 z" id="stairs-6" class="icon"/>
+  </g>
+  <g id="lft2a" class="room">
+    <path class="stair" id="path200" d="M 363,365 H 222 V 255 l 37,-37 h 104 z"/>
+    <path d="m 278.88163,258.86629 13.3334,13.3334 h -10 v 13.3333 h -6.6667 v -13.3333 h -10 l 13.3333,-13.3334 m 33.3334,26.6667 -13.3334,-13.3333 h 10 v -13.3334 h 6.6667 v 13.3334 h 10 l -13.3333,13.3333 m -33.3334,6.6667 h 33.3334 a 6.6666667,6.6666667 0 0 1 6.6666,6.6666 v 20 a 6.6666667,6.6666667 0 0 1 -6.6666,6.6667 h -33.3334 a 6.6666667,6.6666667 0 0 1 -6.6666,-6.6667 v -20 a 6.6666667,6.6666667 0 0 1 6.6666,-6.6666 m 0,6.6666 v 20 h 33.3334 v -20 z" id="lift-0" class="icon"/>
+  </g>
+  <g id="tlt2a" class="room">
+    <path class="toilet" id="path4825" d="M 363,442 V 365 H 222 v 77 z"/>
+    <path d="m 268.36507,438.5441 v -26.4706 h -5.2941 v -19.4117 c 0,-3.8824 3.1765,-7.0588 7.0588,-7.0588 h 10.5883 c 3.8824,0 7.0588,3.1764 7.0588,7.0588 v 19.4117 h -5.2941 v 26.4706 z m 44.1176,0 v -21.1765 h 10.5883 l -8.9647,-26.9294 c -0.9882,-2.8941 -3.6706,-4.8352 -6.7059,-4.8352 h -0.4236 c -3.0353,0 -5.7528,1.9411 -6.7058,4.8352 l -8.9647,26.9294 h 10.5882 v 21.1765 z m -37.0587,-56.4706 c 3.9175,0 7.0588,-3.1411 7.0588,-7.0588 0,-3.9176 -3.1413,-7.0588 -7.0588,-7.0588 -3.9177,0 -7.0589,3.1412 -7.0589,7.0588 0,3.9177 3.1412,7.0588 7.0589,7.0588 z m 31.7647,0 c 3.9177,0 7.0587,-3.1411 7.0587,-7.0588 0,-3.9176 -3.141,-7.0588 -7.0587,-7.0588 -3.9177,0 -7.0589,3.1412 -7.0589,7.0588 0,3.9177 3.1412,7.0588 7.0589,7.0588 z" id="wc-7" class="icon"/>
+  </g>
+  <g id="cab2a32" class="room">
+    <path class="study" id="path4823" d="m 198,538 v -96 h 165 v 96 z"/>
+    <text xml:space="preserve" x="242.11314" y="503.02588" id="text27-7-0" class="cab-num"><tspan id="tspan25-4-0" x="242.11314" y="503.02588">232</tspan></text>
+  </g>
+  <g id="cab2a28" class="room">
+    <path class="study" id="path4831" d="m 363,365 h 99 v -88 h -99 z"/>
+    <text xml:space="preserve" x="373.42685" y="335.76093" id="text27-7-9" class="cab-num"><tspan id="tspan25-4-5" x="373.42685" y="335.76093">228</tspan></text>
+  </g>
+  <path d="m 462,365 h 49 V 219 h 72 V 397 C 498.6005,419.2916 443.6181,468.111 412,538 H 363 V 365 Z" id="path44" class="void"/>
+  <circle id="dot2a-11" cx="176.81058" cy="513.98352" r="10" class="dot"/>
+  <circle id="dot2a-10" cx="176.71007" cy="462.56931" r="10" class="dot"/>
+  <circle id="dot2a-9" cx="183.17455" cy="404.59012" r="10" class="dot"/>
+  <circle id="dot2a-8" cx="186.10347" cy="339.03378" r="10" class="dot"/>
+  <circle id="dot2a-7" cx="186.81058" cy="273.98352" r="10" class="dot"/>
+  <circle id="dot2a-6" cx="226.81058" cy="223.98352" r="10" class="dot"/>
+  <circle id="dot2a-5" cx="281.15372" cy="188.32666" r="10" class="dot"/>
+  <circle id="dot2a-4" cx="344.68927" cy="186.81195" r="10" class="dot"/>
+  <circle id="dot2a-3" cx="399.63901" cy="186.91245" r="10" class="dot"/>
+  <circle id="dot2a-2-1" cx="456.81058" cy="183.98352" r="10" class="dot"/>
+  <circle id="dot2a-1" cx="523.27509" cy="183.27641" r="10" class="dot"/>
+  <circle id="dot2a-2-2" cx="468.93188" cy="242.06679" r="10" class="dot"/>
+  <circle id="dot2a-2-3" cx="483.98215" cy="306.30585" r="10" class="dot"/>
+  </svg>
